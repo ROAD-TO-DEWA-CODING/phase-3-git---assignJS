@@ -17,3 +17,4 @@ a < 3 // condition
 for (let i = 0; i < 10; i = i + 2) {
     console.log("hello");
 }
+// print semua angka dari 1 - 100 yang kelipatan 2 & 3
